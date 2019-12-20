@@ -1,3 +1,10 @@
+Forked from https://github.com/rajatk16/firedux-todo
+Original Firebase Tutorial: https://blog.bitsrc.io/building-a-todo-app-in-react-with-firebase-and-redux-ba3ab53a671b
+
+Added authentication over the todo example using: https://blog.bitsrc.io/react-oauth-authentication-with-firebase-dfe0e8c5d0d4
+
+----
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
